@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_genius_game_behav/xsimk -simmode gui -wdb tb_genius_game_behav.wdb -simrunnum 0 -socket 55011
+Design successfully loaded
+Design Loading Memory Usage: 20180 KB (Peak: 20624 KB)
+Design Loading CPU Usage: 50 ms

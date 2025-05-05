@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/ramylla/genius_PBL01/genius_PBL01.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+/home/ramylla/genius_PBL01/genius_PBL01.srcs/sim_1/new/tb_genius_game.sv,1746461563,systemVerilog,,,,tb_genius_game,,uvm,,,,,,
+/home/ramylla/genius_PBL01/genius_PBL01.srcs/sources_1/new/top_genius_game.sv,1746462326,systemVerilog,,/home/ramylla/genius_PBL01/genius_PBL01.srcs/sim_1/new/tb_genius_game.sv,,Controller;GNR;RegisterBank;ScoreManager;top_genius_game,,uvm,,,,,,
